@@ -1,0 +1,10 @@
+C:\Users\tohid-pc\source\repos\MlSentimentFirst\MlSentimentFirstML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\tohid-pc\source\repos\MlSentimentFirst\MlSentimentFirstML.Model\bin\Debug\netstandard2.0\MlSentimentFirstML.Model.deps.json
+C:\Users\tohid-pc\source\repos\MlSentimentFirst\MlSentimentFirstML.Model\bin\Debug\netstandard2.0\MlSentimentFirstML.Model.dll
+C:\Users\tohid-pc\source\repos\MlSentimentFirst\MlSentimentFirstML.Model\bin\Debug\netstandard2.0\MlSentimentFirstML.Model.pdb
+C:\Users\tohid-pc\source\repos\MlSentimentFirst\MlSentimentFirstML.Model\obj\Debug\netstandard2.0\MlSentimentFirstML.Model.csprojAssemblyReference.cache
+C:\Users\tohid-pc\source\repos\MlSentimentFirst\MlSentimentFirstML.Model\obj\Debug\netstandard2.0\MlSentimentFirstML.Model.csproj.CoreCompileInputs.cache
+C:\Users\tohid-pc\source\repos\MlSentimentFirst\MlSentimentFirstML.Model\obj\Debug\netstandard2.0\MlSentimentFirstML.Model.AssemblyInfoInputs.cache
+C:\Users\tohid-pc\source\repos\MlSentimentFirst\MlSentimentFirstML.Model\obj\Debug\netstandard2.0\MlSentimentFirstML.Model.AssemblyInfo.cs
+C:\Users\tohid-pc\source\repos\MlSentimentFirst\MlSentimentFirstML.Model\obj\Debug\netstandard2.0\MlSentimentFirstML.Model.dll
+C:\Users\tohid-pc\source\repos\MlSentimentFirst\MlSentimentFirstML.Model\obj\Debug\netstandard2.0\MlSentimentFirstML.Model.pdb
